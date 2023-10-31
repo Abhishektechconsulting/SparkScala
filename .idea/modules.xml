@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Scala.iml" filepath="$PROJECT_DIR$/.idea/Scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Scala-sparkScala.iml" filepath="$PROJECT_DIR$/.idea/modules/Scala-sparkScala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project-sparkScala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/project-sparkScala-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spark/.idea/modules/sparkScala.iml" filepath="$PROJECT_DIR$/Spark/.idea/modules/sparkScala.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spark/.idea/modules/sparkScala-build.iml" filepath="$PROJECT_DIR$/Spark/.idea/modules/sparkScala-build.iml" />
     </modules>
