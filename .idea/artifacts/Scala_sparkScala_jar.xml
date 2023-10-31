@@ -31,6 +31,7 @@
       <element id="library" level="project" name="sbt: org.scala-lang.modules:scala-xml_2.11:1.0.6:jar" />
       <element id="library" level="project" name="sbt: commons-collections:commons-collections:3.2.2:jar" />
       <element id="library" level="project" name="sbt: commons-lang:commons-lang:2.6:jar" />
+      <element id="library" level="module" name="sbt: unmanaged-sources-and-docs" module-name="Scala-sparkScala" />
       <element id="library" level="project" name="sbt: org.mortbay.jetty:jetty-util:6.1.26:jar" />
       <element id="library" level="project" name="sbt: org.apache.parquet:parquet-hadoop:1.10.1:jar" />
       <element id="library" level="project" name="sbt: org.apache.hadoop:hadoop-yarn-server-nodemanager:2.6.5:jar" />
@@ -134,7 +135,6 @@
       <element id="library" level="project" name="sbt: commons-net:commons-net:3.1:jar" />
       <element id="library" level="project" name="sbt: org.apache.spark:spark-launcher_2.11:2.4.3:jar" />
       <element id="library" level="project" name="sbt: org.glassfish.jersey.core:jersey-client:2.22.2:jar" />
-      <element id="library" level="module" name="sbt: unmanaged-sources-and-docs" module-name="Scala-sparkScala" />
       <element id="library" level="project" name="sbt: org.apache.spark:spark-network-common_2.11:2.4.3:jar" />
       <element id="library" level="project" name="sbt: commons-beanutils:commons-beanutils:1.7.0:jar" />
       <element id="library" level="project" name="sbt: org.apache.orc:orc-mapreduce:1.5.5:nohive:jar" />
